@@ -25,12 +25,20 @@
       "createdAt": "2023-01-18T16:40:42.778Z"
     },
     {
-      "description": "Creatina",
-      "price": 88,
-      "category": "Saúde",
+      "description": "Compras do mês",
+      "price": 575,
+      "category": "Alimentação",
       "type": "outcome",
-      "createdAt": "2023-01-18T18:11:15.312Z",
+      "createdAt": "2023-01-18T22:24:57.602Z",
       "id": 4
+    },
+    {
+      "description": "Desenvolvimento de aplicativo ",
+      "price": 5000,
+      "category": "Trabalho",
+      "type": "income",
+      "createdAt": "2023-01-18T22:28:09.672Z",
+      "id": 5
     }
   ]
 }
