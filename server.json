@@ -1,0 +1,36 @@
+{
+  "transactions": [
+    {
+      "id": 1,
+      "description": "Desenvolvimento de Sites",
+      "type": "income",
+      "category": "Venda",
+      "price": 14000,
+      "createdAt": "2023-01-18T16:38:42.778Z"
+    },
+    {
+      "id": 2,
+      "description": "Lanche",
+      "type": "outcome",
+      "category": "Alimentação",
+      "price": 45,
+      "createdAt": "2023-01-18T16:40:42.778Z"
+    },
+    {
+      "id": 3,
+      "description": "Ignite Rocketseat",
+      "type": "outcome",
+      "category": "Educação",
+      "price": 1980,
+      "createdAt": "2023-01-18T16:40:42.778Z"
+    },
+    {
+      "description": "Creatina",
+      "price": 88,
+      "category": "Saúde",
+      "type": "outcome",
+      "createdAt": "2023-01-18T18:11:15.312Z",
+      "id": 4
+    }
+  ]
+}
